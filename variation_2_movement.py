@@ -1,4 +1,8 @@
-# Written by A K M Muhitul Islam
+# Group Members:
+# A K M Muhitul Islam
+# Sergio Martelo
+# Syed Ali Hasany
+# Mingi Lee
 
 import cozmo
 from cozmo.util import degrees, distance_mm, speed_mmps
